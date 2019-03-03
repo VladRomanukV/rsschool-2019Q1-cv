@@ -6,7 +6,7 @@
 3. Цель за 2019 - стать полноценным junior разработчиком, с уверенными знаниями js, быть уровня выше среднего, знать пару фреймверков по типу (value js, react js) и постепенно становится middle
 4. css, Sass, Less, Style, html, Jade(pug), js(прочитана learn.js решены задачи до прототипов) 
 5. console.log('hello world') ....... 
-function hub(where){ 
+function hub(){ 
 	return "посмотрите на моем гите, примеры кода 'https://github.com/VladRomanukV'";
 } 
 hub();
